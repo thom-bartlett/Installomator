@@ -1,7 +1,3 @@
-# Note: The main repo is a beta version
-
-Please locate “Releases” on the right, and download the latest 9.2 release (either pkg or zip) for a supported release. 
-
 # Installomator
 
 _The one installer script to rule them all._
